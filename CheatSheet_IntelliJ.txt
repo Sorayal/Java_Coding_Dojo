@@ -1,0 +1,47 @@
+
+### Kommentare setzen ###
+Strg / (Nummernblock) 		: 	einfacher Kommentar
+Strg Shift / (Nummernblock) 	: 	Mehrzeiliger Kommentar
+
+Strg Shift A			:	Find Action (Aktionen suchen)
+
+
+### Code Editing ###
+Strg Shift Enter 		: 	Code Completion
+Strg Alt V 			: 	Reformat File (Settings / Editor / Codestyle kann dort eingestellt)
+Strg Alt O 			: 	Optimize Imports
+Strg W				: 	Select (anything)
+Strg Shift W			:	Deselect
+Strg Shift Alt T		:	Refactor
+Strg Alt T			:	Surround with... Zum Einfügen von If/Else usw.
+Strg Space			:	Menü zur Auswahl
+Strg Shift F9			: 	Recompilieren einer Klasse
+
+
+Alt Shift Pfeil hoch  runter	: 	Zeile verschieben 
+Alt Enter			:	Kontextmenü
+
+Strg F6 			: 	Change Signature (zum Parameter hinzufügen und editieren)
+Strg P 				: 	Bei Methode Parameter zum Füllen aufrufen
+
+Shift F6 			:	Renaming
+
+
+### Code Info ###
+Alt Q 				: 	Klassenkopfinfo zusammen mit Interfaces (Kontext Info)
+
+Shift 2 Mal			:	Search everywhere , überall suchen
+
+
+### Code Navigation ###
+Strg Alt Links-Taste 		: 	Zurückspringen (z.B. bei Methodenaufrufen)
+Strg Alt Rechts-Taste 		: 	Vorspringen 
+
+Strg E				:	Recent Files
+Strg B				:	Go to declaration
+Strg Alt B			:	Implementation
+
+Strg Linksklick auf Methode     : 	Usages der Methode im Code aufrufen
+
+Alt F7				:	Find Usages
+Strg Alt F7			: 	Find Usages in Kompaktform
