@@ -1,6 +1,7 @@
 package org.codingwars;
 
 
+import fake_binary.FakeBinary;
 
 public class Main {
 
